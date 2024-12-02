@@ -1,0 +1,7 @@
+# ninja log v6
+4	123	7548414229008524	CMakeFiles/Dataset_Image_Paralelo.dir/main.cpp.obj.ddi	4ced9b825366c45e
+130	158	7548414230499711	CMakeFiles/Dataset_Image_Paralelo.dir/CXX.dd	f1d0166696a6a7e3
+130	158	7548414230499711	C:/Users/pagan/OneDrive/Área de Trabalho/IF BCC/6 - Período BCC/Programação Paralela/Dataset-Image-Paralelo/cmake-build-debug/CMakeFiles/Dataset_Image_Paralelo.dir/CXXModules.json	f1d0166696a6a7e3
+130	158	7548414230499711	CMakeFiles/Dataset_Image_Paralelo.dir/main.cpp.obj.modmap	f1d0166696a6a7e3
+159	903	7548414230541028	CMakeFiles/Dataset_Image_Paralelo.dir/main.cpp.obj	69ff4dcf976809a0
+903	1175	7548414237982514	Dataset_Image_Paralelo.exe	552583227896ebb9

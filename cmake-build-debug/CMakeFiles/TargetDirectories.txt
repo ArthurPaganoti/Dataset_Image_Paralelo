@@ -1,0 +1,3 @@
+C:/Users/pagan/OneDrive/Área de Trabalho/IF BCC/6 - Período BCC/Programação Paralela/Dataset-Image-Paralelo/cmake-build-debug/CMakeFiles/Dataset_Image_Paralelo.dir
+C:/Users/pagan/OneDrive/Área de Trabalho/IF BCC/6 - Período BCC/Programação Paralela/Dataset-Image-Paralelo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pagan/OneDrive/Área de Trabalho/IF BCC/6 - Período BCC/Programação Paralela/Dataset-Image-Paralelo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
